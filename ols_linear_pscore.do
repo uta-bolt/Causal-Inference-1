@@ -1,6 +1,7 @@
 * Attempting to create a DGP with selection driven by a linear propensity score
     clear 
 	ssc install hettreatreg, replace
+	//i have chnaged something here
 
     drop _all 
 	set obs 5000
